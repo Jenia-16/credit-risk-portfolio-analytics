@@ -1,9 +1,10 @@
 streamlit
 pandas
-numpy
 plotly
-scikit-learn
-xgboost
-joblib
+scikit-learn==1.6.1
+numpy==2.1.3
+scipy==1.16.3
+xgboost==3.4.1
+joblib==1.6.0
 google-genai
 shap
