@@ -10,6 +10,7 @@ An interactive dashboard for exploring a credit portfolio, reviewing model perfo
 - Isolation Forest anomaly detection and human review queue
 - Gemini-powered portfolio Q&A grounded in calculated results
 
+Python version = 3.13
 ## Run locally
 
 ```bash
